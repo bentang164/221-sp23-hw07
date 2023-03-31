@@ -1,3 +1,1 @@
-# Assignment Title Goes Here
-
-Info about your assignment goes here
+# COMP 221 Homework 7: Three-Letter Words
